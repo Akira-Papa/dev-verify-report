@@ -85,7 +85,7 @@ browser({ action: "act", profile: "openclaw",
 
 ## 基本情報
 - 報告日: YYYY年MM月DD日
-- 報告者: ひかり（AI秘書）
+- 報告者: テスト特化AIエージェント
 - 対象プロジェクト: [プロジェクト名]
 - 対象URL: [URL]
 - 対象ブランチ: [branch]
